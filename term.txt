@@ -5,3 +5,5 @@ Define of terms
 - Commit -> save
 - Push -> upload
 - Pull -> download
+
+- 버전관리 테스트
