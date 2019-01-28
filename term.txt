@@ -1,0 +1,7 @@
+Git STUDY
+
+Define of terms
+
+- Commit -> save
+- Push -> upload
+- Pull -> download
